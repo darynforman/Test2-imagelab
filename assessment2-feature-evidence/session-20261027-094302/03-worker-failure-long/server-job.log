@@ -1,0 +1,6 @@
+time=2026-10-27T09:44:22.735-06:00 level=INFO msg=job_commit job_id=c96e63a8-4600-4f5c-a3d0-4721819ed87a version=1 status=queued stage=starting variants_completed=0 simulation_step=0 commit_ms=1793115862735
+time=2026-10-27T09:44:22.742-06:00 level=INFO msg=observation job_id=c96e63a8-4600-4f5c-a3d0-4721819ed87a db_reads=1
+time=2026-10-27T09:44:22.997-06:00 level=INFO msg=job_commit job_id=c96e63a8-4600-4f5c-a3d0-4721819ed87a version=2 status=processing stage=starting variants_completed=0 simulation_step=0 commit_ms=1793115862997
+time=2026-10-27T09:44:22.998-06:00 level=INFO msg=observation job_id=c96e63a8-4600-4f5c-a3d0-4721819ed87a db_reads=2
+time=2026-10-27T09:44:38.002-06:00 level=INFO msg=job_commit job_id=c96e63a8-4600-4f5c-a3d0-4721819ed87a version=3 status=failed stage=starting variants_completed=0 simulation_step=0 commit_ms=1793115878002
+time=2026-10-27T09:44:38.003-06:00 level=INFO msg=observation job_id=c96e63a8-4600-4f5c-a3d0-4721819ed87a db_reads=2

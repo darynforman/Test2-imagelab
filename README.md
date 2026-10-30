@@ -1,4 +1,14 @@
-# ImageLab — Setup and running instructions
+# ImageLab — Assessment 2
+
+## Final submission documents
+
+- **[Final PowerPoint presentation](assessment2-presentation/ImageLab_Assessment_2_Daryn_Forman_Final.pptx)** — final presentation with chart explanations.
+- **[Final report (PDF)](assessment2-report/ImageLab_Assessment_2_Daryn_Forman.pdf)** — read or download the report.
+- **[Report (Word)](assessment2-report/ImageLab_Assessment_2_Daryn_Forman.docx)** — editable report.
+
+Application source is in `cmd/`, `internal/`, and `web/`; database migrations are in `migrations/`. Supporting assessment results and feature evidence are in the `assessment2-*` folders. The earlier presentation is retained in `assessment2-presentation/`; use the final presentation linked above.
+
+## Setup and running instructions
 
 An asynchronous image-processing application built with Go, PostgreSQL, HTML, CSS, and vanilla JavaScript.
 
@@ -48,8 +58,8 @@ the server and the UUID functions used by this project.
 If you already have this checkout, use it and skip cloning.
 
 ```bash
-git clone --branch week4 https://github.com/darynforman/Test1.git
-cd Test1
+git clone https://github.com/darynforman/Test2-imagelab.git
+cd Test2-imagelab
 go mod download
 ```
 

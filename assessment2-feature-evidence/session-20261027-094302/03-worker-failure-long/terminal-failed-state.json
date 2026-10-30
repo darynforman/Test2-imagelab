@@ -1,0 +1,69 @@
+{
+  "job": {
+    "version": 3,
+    "stage": "starting",
+    "variants_completed": 0,
+    "simulation_step": 0,
+    "id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a",
+    "image_id": "58286eae-d4d6-40f9-9653-297213bba800",
+    "status": "failed",
+    "error": "Image processing could not finish. Please submit the image again.",
+    "queued_at": "2026-10-27T09:44:22.730926-06:00",
+    "started_at": "2026-10-27T09:44:22.995697-06:00",
+    "completed_at": null,
+    "failed_at": "2026-10-27T09:44:37.999237-06:00",
+    "status_url": "/v1/jobs/c96e63a8-4600-4f5c-a3d0-4721819ed87a"
+  },
+  "entries": [
+    {
+      "request_id": 1,
+      "job_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a",
+      "mode": "long",
+      "initial": true,
+      "after": null,
+      "start_ms": 1793115862739,
+      "outcome": "initial_200",
+      "receipt_ms": 1793115862745,
+      "http_status": 200,
+      "version": 1,
+      "render_ms": 1793115862745,
+      "end_ms": 1793115862745
+    },
+    {
+      "request_id": 2,
+      "job_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a",
+      "mode": "long",
+      "initial": false,
+      "after": 1,
+      "start_ms": 1793115862746,
+      "outcome": "newer_200",
+      "receipt_ms": 1793115863003,
+      "http_status": 200,
+      "version": 2,
+      "render_ms": 1793115863004,
+      "end_ms": 1793115863004
+    },
+    {
+      "request_id": 3,
+      "job_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a",
+      "mode": "long",
+      "initial": false,
+      "after": 2,
+      "start_ms": 1793115863004,
+      "outcome": "newer_200",
+      "receipt_ms": 1793115878008,
+      "http_status": 200,
+      "version": 3,
+      "render_ms": 1793115878009,
+      "end_ms": 1793115878009
+    }
+  ],
+  "visible": true,
+  "retrieval_error": false,
+  "worker_error": true,
+  "worker_error_text": "Image processing could not finish. Please submit the image again.",
+  "upload_error": "",
+  "indicator": "Status checking stopped",
+  "mode": "long",
+  "title": "Processing failed"
+}

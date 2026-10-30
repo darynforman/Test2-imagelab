@@ -1,0 +1,31 @@
+{
+  "demonstration": "network_error_retry",
+  "job_id": "65fe17cb-8e65-4dee-b5b2-07f090d52bc5",
+  "observed_terminal_state": "completed",
+  "real_browser_UI": true,
+  "source_unchanged": null,
+  "upload_POSTs": 1,
+  "browser_requests_at_terminal": 15,
+  "browser_requests_after_six_seconds": 15,
+  "stop_observed_for_ms": 6398,
+  "no_pending_requests": true,
+  "same_job_throughout": true,
+  "checks": {
+    "real_status_fetch_failed": true,
+    "error_preserved_last_known_job_and_version": true,
+    "polling_paused_until_Try_again": true,
+    "same_job_retry_via_actual_button": true,
+    "no_second_POST": true
+  },
+  "database_terminal_record": {
+    "public_id": "65fe17cb-8e65-4dee-b5b2-07f090d52bc5",
+    "status": "completed",
+    "version": 6,
+    "variants_completed": 3,
+    "error_message": null,
+    "started_at": "2026-10-27T09:43:55.998206-06:00",
+    "completed_at": "2026-10-27T09:44:11.255531-06:00",
+    "failed_at": null
+  },
+  "recording": "Time-sampled actual browser screenshots; GIF frame durations follow capture timestamps. Not a full-frame-rate video."
+}

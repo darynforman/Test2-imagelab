@@ -1,0 +1,5 @@
+{
+  "status": "interrupted",
+  "reason": "Automation process exited with signal 15 during the third screenshot recapture. Only the first two demonstrations have completed verification files. This attempt is not a four-check pass.",
+  "demo_copy_restored": true
+}

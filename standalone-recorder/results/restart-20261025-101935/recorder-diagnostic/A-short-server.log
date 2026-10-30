@@ -1,0 +1,44 @@
+time=2026-10-25T10:22:01.796-06:00 level=INFO msg="database connection pool established" worker_delay=30s simulation_interval=0s
+time=2026-10-25T10:22:01.796-06:00 level=INFO msg="starting server" addr=:4000 env=development
+time=2026-10-25T10:22:21.022-06:00 level=INFO msg=job_commit job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 version=1 status=queued stage=starting variants_completed=0 simulation_step=0 commit_ms=1792945341022
+time=2026-10-25T10:22:21.505-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:21.801-06:00 level=INFO msg=job_commit job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 version=2 status=processing stage=starting variants_completed=0 simulation_step=0 commit_ms=1792945341801
+time=2026-10-25T10:22:21.802-06:00 level=INFO msg="job processing" job_id=01a173de-c24b-7b2d-98ac-ec6fa4f2ef8e
+time=2026-10-25T10:22:22.870-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:23.959-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:24.970-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:25.989-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:27.110-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:28.116-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:29.123-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:30.146-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:31.153-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:32.159-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:33.172-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:34.179-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:35.212-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:36.220-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:37.228-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:38.240-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:39.301-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:40.404-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:41.416-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:42.423-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:43.451-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:44.556-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:45.562-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:46.571-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:47.577-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:48.585-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:49.597-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:50.603-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:51.668-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=1
+time=2026-10-25T10:22:51.877-06:00 level=INFO msg=job_commit job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 version=3 status=processing stage=thumbnail_ready variants_completed=1 simulation_step=0 commit_ms=1792945371877
+time=2026-10-25T10:22:51.916-06:00 level=INFO msg=job_commit job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 version=4 status=processing stage=preview_ready variants_completed=2 simulation_step=0 commit_ms=1792945371916
+time=2026-10-25T10:22:51.994-06:00 level=INFO msg=job_commit job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 version=5 status=processing stage=display_ready variants_completed=3 simulation_step=0 commit_ms=1792945371994
+time=2026-10-25T10:22:52.000-06:00 level=INFO msg=job_commit job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 version=6 status=completed stage=display_ready variants_completed=3 simulation_step=0 commit_ms=1792945372000
+time=2026-10-25T10:22:52.000-06:00 level=INFO msg="job completed" job_id=01a173de-c24b-7b2d-98ac-ec6fa4f2ef8e
+time=2026-10-25T10:22:52.678-06:00 level=INFO msg=observation job_id=14f52bda-0026-4ff3-bbb8-5a707e80a201 db_reads=2
+time=2026-10-25T10:23:51.975-06:00 level=INFO msg="caught signal" signal=interrupt
+time=2026-10-25T10:23:51.976-06:00 level=INFO msg="stopped server"
+make: *** [Makefile:40: run] Interrupt

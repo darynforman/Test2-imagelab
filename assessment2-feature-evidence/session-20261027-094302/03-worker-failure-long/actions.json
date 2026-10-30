@@ -1,0 +1,27 @@
+[
+  {
+    "time_ms": 1793115862438,
+    "action": "change_polling_mode",
+    "mode": "long"
+  },
+  {
+    "time_ms": 1793115862595,
+    "action": "click_Process_image"
+  },
+  {
+    "time_ms": 1793115863157,
+    "action": "worker_processing_observed",
+    "job_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a"
+  },
+  {
+    "time_ms": 1793115863340,
+    "action": "temporarily_rename_demo_copy",
+    "job_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a",
+    "stored_filename": "f1919756e13583406bd1eccd62e7b683.png"
+  },
+  {
+    "time_ms": 1793115887860,
+    "action": "restore_demo_copy",
+    "job_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a"
+  }
+]

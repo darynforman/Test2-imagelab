@@ -1,0 +1,31 @@
+{
+  "demonstration": "worker_failure_long",
+  "job_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a",
+  "observed_terminal_state": "failed",
+  "real_browser_UI": true,
+  "source_unchanged": null,
+  "upload_POSTs": 1,
+  "browser_requests_at_terminal": 3,
+  "browser_requests_after_six_seconds": 3,
+  "stop_observed_for_ms": 6206,
+  "no_pending_requests": true,
+  "same_job_throughout": true,
+  "checks": {
+    "injected_fault": "Only this new demo copy temporarily absent when worker opens it",
+    "worker_persisted_failure": true,
+    "browser_showed_failed_and_safe_error": true,
+    "polling_stopped_in_mode": "long",
+    "no_completed_results": true
+  },
+  "database_terminal_record": {
+    "public_id": "c96e63a8-4600-4f5c-a3d0-4721819ed87a",
+    "status": "failed",
+    "version": 3,
+    "variants_completed": 0,
+    "error_message": "Image processing could not finish. Please submit the image again.",
+    "started_at": "2026-10-27T09:44:22.995697-06:00",
+    "completed_at": null,
+    "failed_at": "2026-10-27T09:44:37.999237-06:00"
+  },
+  "recording": "Time-sampled actual browser screenshots; GIF frame durations follow capture timestamps. Not a full-frame-rate video."
+}

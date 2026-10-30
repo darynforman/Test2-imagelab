@@ -1,0 +1,54 @@
+{
+  "job": {
+    "version": 2,
+    "stage": "starting",
+    "variants_completed": 0,
+    "simulation_step": 0,
+    "id": "e990efcc-f342-413a-bbdf-a3931b4676da",
+    "image_id": "cb9d7cbb-4a66-43a6-8648-42aa01e0dac5",
+    "status": "processing",
+    "queued_at": "2026-10-27T09:44:48.516805-06:00",
+    "started_at": "2026-10-27T09:44:48.995216-06:00",
+    "completed_at": null,
+    "failed_at": null,
+    "status_url": "/v1/jobs/e990efcc-f342-413a-bbdf-a3931b4676da"
+  },
+  "entries": [
+    {
+      "request_id": 1,
+      "job_id": "e990efcc-f342-413a-bbdf-a3931b4676da",
+      "mode": "short",
+      "initial": true,
+      "after": null,
+      "start_ms": 1793115888530,
+      "outcome": "initial_200",
+      "receipt_ms": 1793115888545,
+      "http_status": 200,
+      "version": 1,
+      "render_ms": 1793115888545,
+      "end_ms": 1793115888545
+    },
+    {
+      "request_id": 2,
+      "job_id": "e990efcc-f342-413a-bbdf-a3931b4676da",
+      "mode": "short",
+      "initial": false,
+      "after": null,
+      "start_ms": 1793115889559,
+      "outcome": "newer_200",
+      "receipt_ms": 1793115889567,
+      "http_status": 200,
+      "version": 2,
+      "render_ms": 1793115889568,
+      "end_ms": 1793115889568
+    }
+  ],
+  "visible": true,
+  "retrieval_error": false,
+  "worker_error": false,
+  "worker_error_text": "",
+  "upload_error": "",
+  "indicator": "Short polling \u00b7 1 second after each response",
+  "mode": "short",
+  "title": "Processing image"
+}

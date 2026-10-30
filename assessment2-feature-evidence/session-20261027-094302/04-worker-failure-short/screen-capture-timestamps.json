@@ -1,0 +1,137 @@
+[
+  {
+    "file": "frame-000.png",
+    "capture_ms": 1793115888027,
+    "display_duration_ms": 161
+  },
+  {
+    "file": "01-ready.png",
+    "capture_ms": 1793115888188,
+    "display_duration_ms": 984
+  },
+  {
+    "file": "frame-002.png",
+    "capture_ms": 1793115889172,
+    "display_duration_ms": 546
+  },
+  {
+    "file": "02-processing.png",
+    "capture_ms": 1793115889718,
+    "display_duration_ms": 218
+  },
+  {
+    "file": "03-waiting-for-real-worker-failure.png",
+    "capture_ms": 1793115889936,
+    "display_duration_ms": 1056
+  },
+  {
+    "file": "frame-005.png",
+    "capture_ms": 1793115890992,
+    "display_duration_ms": 1031
+  },
+  {
+    "file": "frame-006.png",
+    "capture_ms": 1793115892023,
+    "display_duration_ms": 1093
+  },
+  {
+    "file": "frame-007.png",
+    "capture_ms": 1793115893116,
+    "display_duration_ms": 1239
+  },
+  {
+    "file": "frame-008.png",
+    "capture_ms": 1793115894355,
+    "display_duration_ms": 1013
+  },
+  {
+    "file": "frame-009.png",
+    "capture_ms": 1793115895368,
+    "display_duration_ms": 1006
+  },
+  {
+    "file": "frame-010.png",
+    "capture_ms": 1793115896374,
+    "display_duration_ms": 1009
+  },
+  {
+    "file": "frame-011.png",
+    "capture_ms": 1793115897383,
+    "display_duration_ms": 1035
+  },
+  {
+    "file": "frame-012.png",
+    "capture_ms": 1793115898418,
+    "display_duration_ms": 1111
+  },
+  {
+    "file": "frame-013.png",
+    "capture_ms": 1793115899529,
+    "display_duration_ms": 1057
+  },
+  {
+    "file": "frame-014.png",
+    "capture_ms": 1793115900586,
+    "display_duration_ms": 1018
+  },
+  {
+    "file": "frame-015.png",
+    "capture_ms": 1793115901604,
+    "display_duration_ms": 1013
+  },
+  {
+    "file": "frame-016.png",
+    "capture_ms": 1793115902617,
+    "display_duration_ms": 1014
+  },
+  {
+    "file": "frame-017.png",
+    "capture_ms": 1793115903631,
+    "display_duration_ms": 1029
+  },
+  {
+    "file": "frame-018.png",
+    "capture_ms": 1793115904660,
+    "display_duration_ms": 395
+  },
+  {
+    "file": "terminal-failed.png",
+    "capture_ms": 1793115905055,
+    "display_duration_ms": 1039
+  },
+  {
+    "file": "frame-020.png",
+    "capture_ms": 1793115906094,
+    "display_duration_ms": 998
+  },
+  {
+    "file": "frame-021.png",
+    "capture_ms": 1793115907092,
+    "display_duration_ms": 982
+  },
+  {
+    "file": "frame-022.png",
+    "capture_ms": 1793115908074,
+    "display_duration_ms": 983
+  },
+  {
+    "file": "frame-023.png",
+    "capture_ms": 1793115909057,
+    "display_duration_ms": 977
+  },
+  {
+    "file": "frame-024.png",
+    "capture_ms": 1793115910034,
+    "display_duration_ms": 1013
+  },
+  {
+    "file": "frame-025.png",
+    "capture_ms": 1793115911047,
+    "display_duration_ms": 260
+  },
+  {
+    "file": "polling-still-stopped.png",
+    "capture_ms": 1793115911307,
+    "display_duration_ms": 1200
+  }
+]

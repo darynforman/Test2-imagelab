@@ -1,0 +1,27 @@
+time=2026-10-27T09:52:37.056-06:00 level=INFO msg="database connection pool established" worker_delay=8s simulation_interval=0s
+time=2026-10-27T09:52:37.056-06:00 level=INFO msg="starting server" addr=:4101 env=development
+time=2026-10-27T09:52:47.953-06:00 level=INFO msg=job_commit job_id=c1b2662d-d29f-4766-80c4-d86f338149f3 version=1 status=queued stage=starting variants_completed=0 simulation_step=0 commit_ms=1793116367953
+time=2026-10-27T09:52:47.979-06:00 level=INFO msg=observation job_id=c1b2662d-d29f-4766-80c4-d86f338149f3 db_reads=1
+time=2026-10-27T09:52:48.059-06:00 level=INFO msg=job_commit job_id=c1b2662d-d29f-4766-80c4-d86f338149f3 version=2 status=processing stage=starting variants_completed=0 simulation_step=0 commit_ms=1793116368059
+time=2026-10-27T09:52:48.059-06:00 level=INFO msg="job processing" job_id=01a17e10-6c4e-7019-ac24-4129e26452fc
+time=2026-10-27T09:52:48.067-06:00 level=INFO msg=observation job_id=c1b2662d-d29f-4766-80c4-d86f338149f3 db_reads=1
+time=2026-10-27T09:52:56.059-06:00 level=ERROR msg="process job" job_id=01a17e10-6c4e-7019-ac24-4129e26452fc error="open /tmp/imagelab-feature-6gjth8xr/storage/originals/7f5a1c166575bb7a38d96410dc078400.png: no such file or directory"
+time=2026-10-27T09:52:56.062-06:00 level=INFO msg=job_commit job_id=c1b2662d-d29f-4766-80c4-d86f338149f3 version=3 status=failed stage=starting variants_completed=0 simulation_step=0 commit_ms=1793116376062
+time=2026-10-27T09:52:56.063-06:00 level=INFO msg=observation job_id=c1b2662d-d29f-4766-80c4-d86f338149f3 db_reads=2
+time=2026-10-27T09:53:03.854-06:00 level=INFO msg=job_commit job_id=d05466ed-138e-497f-bc70-16410e3f4d01 version=1 status=queued stage=starting variants_completed=0 simulation_step=0 commit_ms=1793116383854
+time=2026-10-27T09:53:03.866-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:04.064-06:00 level=INFO msg=job_commit job_id=d05466ed-138e-497f-bc70-16410e3f4d01 version=2 status=processing stage=starting variants_completed=0 simulation_step=0 commit_ms=1793116384064
+time=2026-10-27T09:53:04.064-06:00 level=INFO msg="job processing" job_id=01a17e10-aa6c-7283-9b67-d0da2b19ef1d
+time=2026-10-27T09:53:04.907-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:05.914-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:06.923-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:07.930-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:08.948-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:09.963-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:10.983-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:11.994-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:12.065-06:00 level=ERROR msg="process job" job_id=01a17e10-aa6c-7283-9b67-d0da2b19ef1d error="open /tmp/imagelab-feature-6gjth8xr/storage/originals/d21139162cf841b922748dd45d175009.png: no such file or directory"
+time=2026-10-27T09:53:12.066-06:00 level=INFO msg=job_commit job_id=d05466ed-138e-497f-bc70-16410e3f4d01 version=3 status=failed stage=starting variants_completed=0 simulation_step=0 commit_ms=1793116392066
+time=2026-10-27T09:53:13.007-06:00 level=INFO msg=observation job_id=d05466ed-138e-497f-bc70-16410e3f4d01 db_reads=1
+time=2026-10-27T09:53:22.022-06:00 level=INFO msg="caught signal" signal=terminated
+time=2026-10-27T09:53:22.023-06:00 level=INFO msg="stopped server"

@@ -1,0 +1,26 @@
+[
+  {
+    "time_ms": 1793115804532,
+    "action": "change_polling_mode",
+    "mode": "long"
+  },
+  {
+    "time_ms": 1793115805516,
+    "action": "click_Process_image"
+  },
+  {
+    "time_ms": 1793115807338,
+    "action": "worker_processing_observed",
+    "job_id": "fd2f1ef9-7639-4c54-8764-f3d35574f001"
+  },
+  {
+    "time_ms": 1793115807756,
+    "action": "change_polling_mode",
+    "mode": "short"
+  },
+  {
+    "time_ms": 1793115810160,
+    "action": "change_polling_mode",
+    "mode": "long"
+  }
+]
